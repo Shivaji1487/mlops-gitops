@@ -1,8 +1,8 @@
 replicaCount: 1
 
 image:
-  repository: sshivaji555/customer-tiering-mlops
-  tag: latest
+  repository: sshivaji555/mlops-app
+  tag: 'v1.0.19'
   pullPolicy: Always
 
 service:
